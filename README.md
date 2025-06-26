@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- 밝고 화사한 그라데이션 헤더, 이름 흰색, 이름 옆에 자연스러운 발바닥 이모지 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JIYOON%20PARK%20🐾&fontSize=55&fontColor=ffffff&fontAlign=50&animation=twinkling" alt="header"/>
+  <!-- 연두색(CCFF99)~노란색(FFF5BA) 그라데이션 헤더, 이름 흰색, 이름 옆에 발자국 이모지 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CCFF99,100:FFF5BA&height=200&section=header&text=JIYOON%20PARK%20🐾&fontSize=55&fontColor=ffffff&fontAlign=50" alt="header"/>
   <br>
   <span style="font-size:1.2rem; color:#666;">
     Pharmaceutical Industry&nbsp;|&nbsp;Clinical Research&nbsp;|&nbsp;Data Analysis
@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pharma-FFD1DC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pharma-CCFF99?style=flat-square"/>
   <img src="https://img.shields.io/badge/Clinical%20Research-FFF5BA?style=flat-square"/>
   <img src="https://img.shields.io/badge/Data%20Analysis-FFC3A0?style=flat-square"/>
   <img src="https://img.shields.io/badge/Project%20Management-B5EAD7?style=flat-square"/>
@@ -38,7 +38,8 @@
 - **중앙대학교 경영경제대학 국제물류학과, 물류보안학과 학사**  
   Seoul, Korea  
   2016.03 – 2022.08  
-  - 4학년 GPA: **4.34/4.5**
+  - 4학년 GPA: **4.34/4.5**  
+[1]
 
 ---
 
@@ -58,8 +59,7 @@
 - **해피무브 글로벌 청년봉사단 Staff**  
   2020.12 – 2021.02  
   - 강수량, 전력량, 제작비용, 운송비 등을 포함하는 엑셀 모듈을 만들어서 당해 년도 필요 식수량과 집수량을 계산하여 아이디어 실현 가능성과 타워 설치 위치 추정에 기여
-  - 마을 발전을 위한 아이디어로 빗물을 활용하는 쉼터 가로등과 커뮤니티 센터 방범 시스템의 제안서를 작성
-  - 벽화를 개보수하는 프로젝트 팀의 리더로서 활동하여 인도 첸나이 지역 최우수팀 수상에 기여
+  - 마을 발전을 위한 아이디어로 빗
 
 ---
 
@@ -78,3 +78,5 @@
 - 데이터 분석 및 연구 자동화 스크립트 공유  
 - 연구윤리, 임상시험, 제약산업 관련 자료 정리  
 - 학습 및 커뮤니티 교류
+
+- 
