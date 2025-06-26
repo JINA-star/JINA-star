@@ -1,28 +1,30 @@
-<!-- 헤더 이미지 (capsule-render 등 무료 서비스 활용) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JIYOON%20PARK&fontSize=55&fontAlign=70&desc=Pharmaceutical%20Industry%20%7C%20Clinical%20Research%20%7C%20Data%20Analysis&descSize=20&descAlign=70)
+<!-- 헤더 이미지 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JIYOON%20PARK&fontSize=55"/>
+  <br>
+  <b>Pharmaceutical Industry | Clinical Research | Data Analysis</b>
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A6E0&center=true&vCenter=true&width=435&lines=Welcome+to+my+cat-themed+repo!+%F0%9F%90%BE" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120"/>
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pharma-4B8BBE?style=flat-square&logo=google-scholar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clinical%20Research-FFB300?style=flat-square&logo=medrt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-009688?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Project%20Management-6C63FF?style=flat-square&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IRB%20Admin-7C4DFF?style=flat-square&logo=read-the-docs&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cat%20Lover-FFD700?style=flat-square&logo=cat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pharma-4B8BBE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Clinical%20Research-FFB300?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-009688?style=flat-square"/>
 </p>
 
 ---
 
-## 🌟 About Me
+## 😺 About Me
 
 안녕하세요!  
 저는 **제약산업과 임상연구** 분야에서 데이터 분석, 연구 행정, 그리고 사회적 임팩트 프로젝트를 경험한 박지윤입니다.  
-실무와 연구, 그리고 사회공헌을 아우르는 성장형 연구자로서,  
-이 저장소는 논문 연구, 데이터 분석, 연구 자동화 파이프라인을 관리하고 공유하기 위해 개설되었습니다.
+고양이를 사랑하고, 고양이처럼 호기심 많고 유연하게 연구와 실무에 임합니다! 🐾
 
 ---
 
@@ -55,16 +57,7 @@
 - **주요 역량**:  
   데이터 분석, 연구 행정, 프로젝트 관리, IRB/윤리, 실무 문서화, Excel, Markdown, GitHub
 - **관심 분야**:  
-  제약산업, 임상연구, 데이터 기반 의사결정, 연구윤리, 의료기기, AI·빅데이터, 글로벌 헬스케어
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JINA-star&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JINA-star&layout=compact&theme=tokyonight" height="180"/>
-</p>
+  제약산업, 임상연구, 데이터 기반 의사결정, 연구윤리, 의료기기, AI·빅데이터, 글로벌 헬스케어, 그리고 고양이! 🐱
 
 ---
 
@@ -77,5 +70,10 @@
 
 ---
 
-> **"연구와 실무, 그리고 사회적 기여를 함께 고민하는 제약·의료 분야 연구자 박지윤입니다.  
+> **"고양이처럼 호기심 많고, 유연하게 연구와 실무를 탐구합니다.  
 > 이 저장소가 여러분의 연구와 성장에 도움이 되길 바랍니다!"**
+
+<!--
+더 많은 고양이 이미지, 배지, 인용구 등 추가 가능!
+원하는 스타일이 있으면 언제든 말씀해 주세요.
+-->
