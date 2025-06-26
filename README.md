@@ -1,7 +1,10 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD8B1,FFF5BA&height=200&section=header&text=JIYOON%20PARK%20🐾&fontSize=55&fontColor=000000&fontAlign=50" alt="header"/>
+  <br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Pharmaceutical%20Industry%20|%20Clinical%20Research%20|%20Data%20Analysis-FFF5BA?style=for-the-badge&labelColor=FFD8B1&color=FFE066"/>
 </p>
-
 
 
 <br>
