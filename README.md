@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD8B1,FFF5BA&height=200&section=header&text=JIYOON%20PARK%20🐾&fontSize=55&fontColor=000000&fontAlign=50" alt="header"/>
-  <br>
+  <!-- 연두~노랑 그라데이션 헤더, 이름 검정색, 이름 옆에 발자국 이모지 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CCFF99,100:FFF5BA&height=200&section=header&text=JIYOON%20PARK%20🐾&fontSize=55&fontColor=000000&fontAlign=50" alt="header"/>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pharmaceutical%20Industry%20|%20Clinical%20Research%20|%20Data%20Analysis-FFF5BA?style=for-the-badge&labelColor=FFD8B1&color=FFE066"/>
 </p>
 
-
-<br>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Pharma-4B8BBE?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Clinical%20Research-FFB300?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-009688?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Project%20Management-E57373?style=flat-square"/>
-  <img src="https://img.shields.io/badge/IRB%20Admin-9575CD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PHARMA-4B8BBE?style=for-the-badge&labelColor=4B8BBE&color=4B8BBE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CLINICAL%20RESEARCH-FFB300?style=for-the-badge&labelColor=FFB300&color=FFB300&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DATA%20ANALYSIS-009688?style=for-the-badge&labelColor=009688&color=009688&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PROJECT%20MANAGEMENT-E57373?style=for-the-badge&labelColor=E57373&color=E57373&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IRB%20ADMIN-9575CD?style=for-the-badge&labelColor=9575CD&color=9575CD&logoColor=white"/>
 </p>
+
+
 
 ---
 
@@ -25,7 +25,7 @@
 제약산업과 임상연구 분야에서 데이터 분석과 연구 행정, 그리고 다양한 프로젝트 경험을 쌓아가고 있는 박지윤입니다.  
 실무와 연구, 사회적 임팩트까지 폭넓게 고민하며 한 걸음씩 나아가는 연구자가 되고 싶습니다.
 
-현재는 성균관대학교 AWS SAY(프로젝트 기반 바이오 헬스케어 AI 아카데미) 과정의 교육생으로,
+현재는 성균관대학교 AWS SAY(프로젝트 기반 바이오 헬스케어 AI 아카데미) 과정의 교육생으로,  
 의료데이터 분석과 클라우드 분야의 실무 역량을 집중적으로 키우고 있습니다.  
 
 새로운 기술과 경험을 배우는 과정에서 얻은 인사이트와 성장의 흔적을 이 저장소에 차곡차곡 남기고 있습니다.
@@ -86,3 +86,4 @@
 - 데이터 분석 및 연구 자동화 스크립트 공유  
 - 연구윤리, 임상시험, 제약산업 관련 자료 정리  
 - 학습 및 커뮤니티 교류
+
