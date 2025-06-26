@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- 파스텔톤 그라데이션 헤더, 이름 흰색, 오른쪽에 발바닥 이모지 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JIYOON%20PARK%20🐾&fontSize=55&fontColor=ffffff&fontAlign=50&animation=twinkling&customColorList=0,6,14,21,28" alt="header"/>
+  <!-- 파스텔톤 핑크~노랑 그라데이션 헤더, 이름 흰색, 이름 옆에 작고 자연스러운 발자국 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffe1e1,fff5ba&height=200&section=header&text=JIYOON%20PARK%20%F0%9F%90%BE&fontSize=55&fontColor=ffffff&fontAlign=50&animation=twinkling" alt="header"/>
   <br>
   <span style="font-size:1.2rem; color:#666;">
     Pharmaceutical Industry&nbsp;|&nbsp;Clinical Research&nbsp;|&nbsp;Data Analysis
@@ -10,11 +10,11 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pharma-4B8BBE?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Clinical%20Research-FFB300?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-009688?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Project%20Management-6C63FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/IRB%20Admin-7C4DFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pharma-FFD1DC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Clinical%20Research-FFF5BA?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-FFC3A0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Project%20Management-B5EAD7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IRB%20Admin-C7CEEA?style=flat-square"/>
 </p>
 
 ---
@@ -24,7 +24,7 @@
 안녕하세요!  
 제약산업과 임상연구 분야에서 데이터 분석과 연구 행정, 그리고 다양한 프로젝트 경험을 쌓아가고 있는 박지윤입니다.  
 실무와 연구, 그리고 사회적 임팩트까지 두루 고민하며, 함께 성장하는 연구자가 되고자 합니다.  
-이 저장소는 논문 연구, 데이터 분석, 연구 자동화 파이프라인 등 저의 다양한 연구 여정을 기록하고 공유하기 위해 만들었습니다.
+이 저장소는 논문 연구, 데이터 분석, 연구 자동화 파이프라인 등 다양한 연구 여정을 기록하고 공유하기 위해 만들었습니다.
 
 ---
 
