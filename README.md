@@ -13,8 +13,8 @@
   <img src="https://img.shields.io/badge/Pharma-4B8BBE?style=flat-square"/>
   <img src="https://img.shields.io/badge/Clinical%20Research-FFB300?style=flat-square"/>
   <img src="https://img.shields.io/badge/Data%20Analysis-009688?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Project%20Management-6C63FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/IRB%20Admin-7C4DFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Project%20Management-E57373?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IRB%20Admin-9575CD?style=flat-square"/>
 </p>
 
 ---
@@ -23,8 +23,12 @@
 
 안녕하세요!  
 제약산업과 임상연구 분야에서 데이터 분석과 연구 행정, 그리고 다양한 프로젝트 경험을 쌓아가고 있는 박지윤입니다.  
-실무와 연구, 그리고 사회적 임팩트까지 두루 고민하며, 함께 성장하는 연구자가 되고자 합니다.  
-이 저장소는 논문 연구, 데이터 분석, 연구 자동화 파이프라인 등 다양한 연구 여정을 기록하고 공유하기 위해 만들었습니다.
+실무와 연구, 사회적 임팩트까지 폭넓게 고민하며 한 걸음씩 나아가는 연구자가 되고 싶습니다.
+
+현재는 성균관대학교 AWS SAY(프로젝트 기반 바이오 헬스케어 AI 아카데미) 과정의 교육생으로,
+의료데이터 분석과 클라우드 분야의 실무 역량을 집중적으로 키우고 있습니다.  
+
+새로운 기술과 경험을 배우는 과정에서 얻은 인사이트와 성장의 흔적을 이 저장소에 차곡차곡 남기고 있습니다.
 
 ---
 
