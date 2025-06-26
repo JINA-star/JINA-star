@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- 연두색(CCFF99)~노란색(FFF5BA) 그라데이션 헤더, 이름 흰색, 이름 옆에 발자국 이모지 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CCFF99,100:FFF5BA&height=200&section=header&text=JIYOON%20PARK%20🐾&fontSize=55&fontColor=ffffff&fontAlign=50" alt="header"/>
+  <!-- 연두~노랑 그라데이션 헤더, 이름 검정색, 이름 옆에 발자국 이모지 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CCFF99,100:FFF5BA&height=200&section=header&text=JIYOON%20PARK%20🐾&fontSize=55&fontColor=000000&fontAlign=50" alt="header"/>
   <br>
   <span style="font-size:1.2rem; color:#666;">
     Pharmaceutical Industry&nbsp;|&nbsp;Clinical Research&nbsp;|&nbsp;Data Analysis
@@ -10,11 +10,11 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pharma-CCFF99?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Clinical%20Research-FFF5BA?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-FFC3A0?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Project%20Management-B5EAD7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/IRB%20Admin-C7CEEA?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pharma-4B8BBE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Clinical%20Research-FFB300?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-009688?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Project%20Management-6C63FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IRB%20Admin-7C4DFF?style=flat-square"/>
 </p>
 
 ---
@@ -38,18 +38,21 @@
 - **중앙대학교 경영경제대학 국제물류학과, 물류보안학과 학사**  
   Seoul, Korea  
   2016.03 – 2022.08  
-  - 4학년 GPA: **4.34/4.5**  
-[1]
+  - 4학년 GPA: **4.34/4.5**
 
 ---
 
-## 🗂️ Experience & Activities
+## 🗂️ Experience
 
 - **고려대학교의료원 IRB 행정간사(연구대상자보호팀)**  
   2022.11 – 2023.11  
   - 의약품 및 배아생성, 인체유래물은행 전문 패널 담당자로서 의학연구심의위원회의 심의를 지원하며 원내 연구자 및 외부담당자 응대 (2023.08.07. ~ 2023.11.13.)
   - 임상시험 교육실시기관 교육기관관리자로서 교육계획 수립, 교육과정 개발·운영, 평가, 표준운영지침 관리 등 교육 관련 업무를 담당 (2023.02.01. ~ 2023.08.17.)
   - 의료기기 전문 패널 담당자로서 체외진단 의료기기를 포함하여 수술, AI, 빅데이터 연구 등과 같은 다양한 기타 연구의 심의 지원 및 행정을 담당 (2022.11.14. ~ 2023.02.01.)
+
+---
+
+## 🏅 Activities & Leadership
 
 - **KAIRB Annual Meeting 포스터 세션 우수상**  
   2023.09.22  
@@ -59,7 +62,8 @@
 - **해피무브 글로벌 청년봉사단 Staff**  
   2020.12 – 2021.02  
   - 강수량, 전력량, 제작비용, 운송비 등을 포함하는 엑셀 모듈을 만들어서 당해 년도 필요 식수량과 집수량을 계산하여 아이디어 실현 가능성과 타워 설치 위치 추정에 기여
-  - 마을 발전을 위한 아이디어로 빗
+  - 마을 발전을 위한 아이디어로 빗물을 활용하는 쉼터 가로등과 커뮤니티 센터 방범 시스템의 제안서를 작성
+  - 벽화를 개보수하는 프로젝트 팀의 리더로서 활동하여 인도 첸나이 지역 최우수팀 수상에 기여
 
 ---
 
@@ -78,5 +82,3 @@
 - 데이터 분석 및 연구 자동화 스크립트 공유  
 - 연구윤리, 임상시험, 제약산업 관련 자료 정리  
 - 학습 및 커뮤니티 교류
-
-- 
