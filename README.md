@@ -1,11 +1,11 @@
 <div align="center">
-  <!-- 연두~노랑 그라데이션 헤더, 이름 검정색, 이름 옆에 발자국 이모지 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CCFF99,100:FFF5BA&height=200&section=header&text=JIYOON%20PARK%20🐾&fontSize=55&fontColor=000000&fontAlign=50" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD8B1,FFF5BA&height=200&section=header&text=JIYOON%20PARK%20🐾&fontSize=55&fontColor=000000&fontAlign=50" alt="header"/>
   <br>
-  <span style="font-size:1.2rem; color:#666;">
+  <strong style="font-size:1.2rem;">
     Pharmaceutical Industry&nbsp;|&nbsp;Clinical Research&nbsp;|&nbsp;Data Analysis
-  </span>
+  </strong>
 </div>
+
 
 <br>
 
